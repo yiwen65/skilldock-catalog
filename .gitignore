@@ -1,0 +1,6 @@
+# SkillDock catalog sync
+*
+!.gitignore
+!.skilldock/
+!.skilldock/catalog/
+!.skilldock/catalog/**
