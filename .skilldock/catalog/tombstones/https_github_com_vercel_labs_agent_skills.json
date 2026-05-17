@@ -3,10 +3,9 @@
   "id": "https://github.com/vercel-labs/agent-skills",
   "remoteUrl": "https://github.com/vercel-labs/agent-skills.git",
   "directoryName": "vercel-labs-agent-skills",
-  "state": "active",
+  "state": "removed",
   "branch": null,
   "shallow": false,
-  "skillPath": "skills/web-design-guidelines",
   "addedAt": "1779015391",
-  "updatedAt": "1779019619"
+  "updatedAt": "1779020860"
 }

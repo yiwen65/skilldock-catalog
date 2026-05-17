@@ -3,10 +3,9 @@
   "id": "https://github.com/remotion-dev/skills",
   "remoteUrl": "https://github.com/remotion-dev/skills.git",
   "directoryName": "remotion-dev-skills",
-  "state": "active",
+  "state": "removed",
   "branch": null,
   "shallow": false,
-  "skillPath": "skills/remotion",
   "addedAt": "1779015391",
-  "updatedAt": "1779019619"
+  "updatedAt": "1779020855"
 }
