@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "https://github.com/github/awesome-copilot",
+  "remoteUrl": "https://github.com/github/awesome-copilot.git",
+  "directoryName": "awesome-copilot",
+  "state": "active",
+  "branch": null,
+  "shallow": false,
+  "skillPaths": [
+    "skills/git-commit"
+  ],
+  "skillPath": "skills/git-commit",
+  "addedAt": "1779027260",
+  "updatedAt": "1779028420"
+}

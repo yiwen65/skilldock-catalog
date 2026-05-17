@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "https://github.com/cocoon-ai/architecture-diagram-generator",
+  "remoteUrl": "https://github.com/Cocoon-AI/architecture-diagram-generator.git",
+  "directoryName": "architecture-diagram-generator",
+  "state": "active",
+  "branch": null,
+  "shallow": false,
+  "skillPaths": [
+    "architecture-diagram"
+  ],
+  "skillPath": "architecture-diagram",
+  "addedAt": "1779027539",
+  "updatedAt": "1779028420"
+}

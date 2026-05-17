@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "https://github.com/remotion-dev/skills",
+  "remoteUrl": "https://github.com/remotion-dev/skills.git",
+  "directoryName": "remotion-dev-skills",
+  "state": "active",
+  "branch": null,
+  "shallow": false,
+  "skillPaths": [
+    "skills/remotion"
+  ],
+  "skillPath": "skills/remotion",
+  "addedAt": "1779027313",
+  "updatedAt": "1779028420"
+}

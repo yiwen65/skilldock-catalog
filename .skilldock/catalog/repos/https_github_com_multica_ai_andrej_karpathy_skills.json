@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "remoteUrl": "https://github.com/multica-ai/andrej-karpathy-skills.git",
+  "directoryName": "andrej-karpathy-skills",
+  "state": "active",
+  "branch": null,
+  "shallow": false,
+  "skillPaths": [
+    "skills/karpathy-guidelines"
+  ],
+  "skillPath": "skills/karpathy-guidelines",
+  "addedAt": "1779028203",
+  "updatedAt": "1779028420"
+}
