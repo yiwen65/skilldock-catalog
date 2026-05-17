@@ -5,3 +5,4 @@
 !.skilldock/catalog/
 !.skilldock/catalog/**
 .DS_Store
+**/.DS_Store
