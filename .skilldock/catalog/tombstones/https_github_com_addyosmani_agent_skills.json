@@ -3,9 +3,9 @@
   "id": "https://github.com/addyosmani/agent-skills",
   "remoteUrl": "https://github.com/addyosmani/agent-skills",
   "directoryName": "agent-skills",
-  "state": "active",
+  "state": "removed",
   "branch": null,
   "shallow": false,
   "addedAt": "1779022102",
-  "updatedAt": "1779029938"
+  "updatedAt": "1779029992"
 }
