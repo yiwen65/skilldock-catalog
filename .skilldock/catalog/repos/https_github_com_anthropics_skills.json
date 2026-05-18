@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "https://github.com/anthropics/skills",
+  "remoteUrl": "https://github.com/anthropics/skills.git",
+  "directoryName": "anthropics-skills",
+  "state": "active",
+  "branch": null,
+  "shallow": false,
+  "skillPaths": [
+    "skills/frontend-design",
+    "skills/skill-creator"
+  ],
+  "addedAt": "1779115338885",
+  "updatedAt": "1779115407866"
+}

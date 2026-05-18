@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "https://github.com/vercel-labs/skills",
+  "remoteUrl": "https://github.com/vercel-labs/skills.git",
+  "directoryName": "vercel-labs-skills",
+  "state": "active",
+  "branch": null,
+  "shallow": false,
+  "skillPaths": [
+    "skills/find-skills"
+  ],
+  "skillPath": "skills/find-skills",
+  "addedAt": "1779114988039",
+  "updatedAt": "1779115408718"
+}
