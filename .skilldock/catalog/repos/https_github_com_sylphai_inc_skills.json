@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "https://github.com/sylphai-inc/skills",
+  "remoteUrl": "https://github.com/SylphAI-Inc/skills.git",
+  "directoryName": "SylphAI-Inc-skills",
+  "state": "active",
+  "branch": null,
+  "shallow": false,
+  "skillPaths": [
+    "skills/glowmotion"
+  ],
+  "skillPath": "skills/glowmotion",
+  "addedAt": "1784957764079",
+  "updatedAt": "1785058312379"
+}
